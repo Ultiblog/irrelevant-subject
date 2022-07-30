@@ -20,4 +20,5 @@ collections:
       - { label: "Image",name: "image",widget: "image",choose_url: true }
       - { label: "Image Caption", name: "image_caption", widget: "text" }
       - { label: "Author", name: "author", widget: "text" }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false , required: false}
+      - { label: 'Blog post content', name: 'content', widget: 'markdown' }
