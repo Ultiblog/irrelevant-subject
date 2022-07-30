@@ -11,14 +11,14 @@ collections:
     label: "Blog"
     folder: "content/blog"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: [ "" ] }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: 'Created', name: 'created', widget: "date" }
-      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Summary", name: "excerpt", widget: "text" }
       - { label: "Image",name: "image",widget: "image",choose_url: true }
-      - { label: "Image Caption", name: "image_caption", widget: "text" }
+      - { label: "Image Caption", name: "image_caption", widget: "text", required: false }
       - { label: "Author", name: "author", widget: "text" }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false , required: false}
+      - { label: "Featured", name: "featured", widget: "boolean", default: false, required: false }
       - { label: 'Blog post content', name: 'content', widget: 'markdown' }
