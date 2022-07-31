@@ -6,7 +6,7 @@ excerpt: Virgo per novercae, vigor unde cratere fumis, sine atque, Parthaoniae g
 created: 2019-05-05
 image: ./images/phoenix-han-Nqdh0G8rdCc-unsplash.jpg
 image_caption: Photo by Phoenix Han on Unsplash
-author: author1, author2, author3
+author: louk, kalts, random
 ---
 
 ## Hinc incidit deam laudis rursus plumbum Tereusque

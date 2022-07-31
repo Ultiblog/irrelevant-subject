@@ -8,7 +8,7 @@ created: 2022-07-31
 image: /uploads/atte-gronlund-jiphyelpixm-unsplash.jpg
 image_caption: fkgjhgkjg
 author:
-  - author1
+  - louk
 featured: true
 content: "Spider-Man: No Way Home is a phenomenal conclusion to the trilogy and
   Holland's best outing as Spidey yet. Starts off fun, safe and familiar and

@@ -1,5 +1,5 @@
 ---
-id: author1
+id: louk
 name: Dimitris Loukakis
 bio: Mathematician, random note one, random note 2
 facebook: https://www.facebook.com

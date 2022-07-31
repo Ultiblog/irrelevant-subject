@@ -6,7 +6,7 @@ excerpt: Saepe Horamque Typhoea in denique, vivere semina manu quodque hic quia 
 created: 2019-09-03
 image: ./images/sergio-souza-mvb51ThjvRA-unsplash.jpg
 image_caption: Photo by Sergio Souza on Unsplash
-author: author3
+author: random
 ---
 
 ## Aoniis possis quae suspiria

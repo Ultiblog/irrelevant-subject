@@ -6,7 +6,7 @@ excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere! Vincere ferocia
 created: 2019-01-10
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Photo by Josh Spires on Unsplash
-author: author1, author2, author3
+author: louk, kalts, random
 featured: true
 ---
 

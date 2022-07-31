@@ -1,5 +1,5 @@
 ---
-id: author3
+id: random
 name: Random person part 3
 bio: Nasa Engineer, pro-life gym buy
 facebook: https://www.facebook.com

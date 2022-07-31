@@ -3,15 +3,12 @@
       <content-header 
         :title="$static.metadata.siteName" 
         :sub="$static.metadata.siteDescription"
-        image="phoenix-han-Nqdh0G8rdCc-unsplash.jpg">
+        image="bananaa.jpg">
       </content-header>
 
       <div class="container mx-auto">
           <div class="flex flex-wrap my-4">
-
           <FeaturedCard v-if="$page.featured.totalCount>0" :records="$page.featured.edges"/>
-
-        
           <CardItem v-for="edge in $page.entries.edges" :key="edge.node.id" :record="edge.node" />
         </div>
       </div>

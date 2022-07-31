@@ -16,11 +16,12 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Tags (seperate with comma, e.x. one, two)", name: "tags", widget: "list" }
       - { label: "Category", name: "category", widget: "select", multiple: true,
-          options: ["movies", "tvshows", "music", "aspects", "science" ] }
+          options: [ "movies", "tvshows", "music", "aspects", "science" ] }
       - { label: "Summary", name: "excerpt", widget: "text" }
       - { label: "Created",name: "created", widget: "date", format: 'YYYY-MM-DD' }
       - { label: "Image",name: "image",widget: "image", choose_url: true }
       - { label: "Image Caption", name: "image_caption", widget: "text" }
-      - { label: "Author", name: "author", widget: "list" }
+      - { label: "Author", name: "author", widget: "select", multiple: true,
+          options: [ "louk", "kalts", "random" ] }
       - { label: "Featured", name: "featured", widget: "boolean", default: false }
       - { label: 'Blog post content', name: 'content', widget: 'markdown' }
