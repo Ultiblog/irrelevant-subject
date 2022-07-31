@@ -4,14 +4,12 @@ backend:
   branch: main
 
 media_folder: "content/blog"
-public_folder: "/images/uploads"
+public_folder: "../../static/images/uploads"
 
 
 collections:
   - name: "blog"
     label: "post"
-    media_folder: 'content/blog'
-    public_folder: '../../static/images/uploads'
     folder: "content/blog"
     create: true
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
