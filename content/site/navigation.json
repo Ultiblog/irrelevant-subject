@@ -1,67 +1,67 @@
 {
-	"headerNavigation": [
-		{
-			"name": "Αρχική",
-			"link": "/",
-			"external": false
-		},
-		{
-			"name": "Τηλεόραση",
-			"link": "#",
-			"children": [
-				{
-					"name": "Ταινίες",
-					"link": "/category/movies",
-					"external": false
-				},
+  "headerNavigation": [
+    {
+      "name": "Αρχική",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "Τηλεόραση",
+      "link": "#",
+      "children": [
+        {
+          "name": "Ταινίες",
+          "link": "/category/movies",
+          "external": false
+        },
         {
           "name": "Σειρές",
           "link": "/category/tvshows",
           "external": false
         }
-			]
-		},
+      ]
+    },
     {
-			"name": "Μουσική",
-			"link": "/category/music",
-			"external": false
-		},
+      "name": "Μουσική",
+      "link": "/category/music",
+      "external": false
+    },
     {
-			"name": "Απόψεις",
-			"link": "/category/aspects",
-			"external": false
-		},
+      "name": "Απόψεις",
+      "link": "/category/aspects",
+      "external": false
+    },
     {
-			"name": "Επιστήμη",
-			"link": "/category/science",
-			"external": false
-		}
-	],
-	"footerNavigation": [
-		{
-			"name": "Latest Posts",
-			"link": "/",
-			"external": false
-		},
-		{
-			"name": "Facebook",
-			"link": "https://www.facebook.com",
-			"external": true
-		},
-		{
-			"name": "Twitter",
-			"link": "https://www.twitter.com",
-			"external": true
-		},
-		{
-			"name": "Instagram",
-			"link": "https://www.instagram.com",
-			"external": true
-		},
-		{
-			"name": "RSS",
-			"link": "/rss.xml",
-			"external": false
-		}
-	]
+      "name": "Επιστήμη",
+      "link": "/category/science",
+      "external": false
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "Latest Posts",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com",
+      "external": true
+    },
+    {
+      "name": "Twitter",
+      "link": "https://www.twitter.com",
+      "external": true
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com",
+      "external": true
+    },
+    {
+      "name": "RSS",
+      "link": "/rss.xml",
+      "external": false
+    }
+  ]
 }
