@@ -1,62 +1,67 @@
 {
-  "headerNavigation": [
-    {
-      "name": "Home",
-      "link": "/",
-      "external": false
-    },
-    {
-      "name": "About",
-      "link": "/about-us",
-      "external": false
-    },
-    {
-      "name": "Getting started",
-      "link": "/category/getting-started",
-      "external": false
-    },
-    {
-      "name": "More",
-      "link": "#",
-      "children": [
+	"headerNavigation": [
+		{
+			"name": "Αρχική",
+			"link": "/",
+			"external": false
+		},
+		{
+			"name": "Τηλεόραση",
+			"link": "#",
+			"children": [
+				{
+					"name": "Ταινίες",
+					"link": "/category/movies",
+					"external": false
+				},
         {
-          "name": "Theme Repository",
-          "link": "https://www.github.com/jammeryhq/gridsome-starter-liebling",
-          "external": true
-        },
-        {
-          "name": "Gridsome Docs",
-          "link": "https://www.gridsome.org/docs",
-          "external": true
-        },
-         {
-           "name": "Internal Page ( About )",
-           "link": "/about-us",
-           "external": false
-         }
-      ]
-    }
-  ],
-  "footerNavigation": [
+          "name": "Σειρές",
+          "link": "/category/tvshows",
+          "external": false
+        }
+			]
+		},
     {
-      "name": "Latest Posts",
-      "link": "/",
-      "external" : false
-    },
+			"name": "Μουσική",
+			"link": "/category/music",
+			"external": false
+		},
     {
-      "name": "Facebook",
-      "link": "https://www.facebook.com",
-      "external": true
-    },
+			"name": "Απόψεις",
+			"link": "/category/aspects",
+			"external": false
+		},
     {
-      "name": "Gridsome",
-      "link": "https://www.gridsome.org",
-      "external": true
-    },
-    {
-      "name": "RSS",
-      "link": "/rss.xml",
-      "external": false
-    }
-  ]
+			"name": "Επιστήμη",
+			"link": "/category/science",
+			"external": false
+		}
+	],
+	"footerNavigation": [
+		{
+			"name": "Latest Posts",
+			"link": "/",
+			"external": false
+		},
+		{
+			"name": "Facebook",
+			"link": "https://www.facebook.com",
+			"external": true
+		},
+		{
+			"name": "Twitter",
+			"link": "https://www.twitter.com",
+			"external": true
+		},
+		{
+			"name": "Instagram",
+			"link": "https://www.instagram.com",
+			"external": true
+		},
+		{
+			"name": "RSS",
+			"link": "/rss.xml",
+			"external": false
+		}
+	]
 }

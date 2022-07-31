@@ -1,7 +1,7 @@
 ---
 id: author3
-name: John Doe
-bio: Sociosqu placerat tortor vestibulum inceptos ligula faucibus fames nibh sodales imperdiet vulputate
+name: Random person part 3
+bio: Nasa Engineer, pro-life gym buy
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
