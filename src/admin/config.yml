@@ -3,8 +3,8 @@ backend:
   repo: Ultiblog/irrelevant-subject
   branch: main
 
-media_folder: "content/blog/images"
-public_folder: "static/images/uploads"
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections:
   - name: "blog"
