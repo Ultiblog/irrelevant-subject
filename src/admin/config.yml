@@ -4,7 +4,7 @@ backend:
   branch: main
 
 media_folder: "content/blog/images"
-public_folder: "/uploads"
+public_folder: "content/blog/images"
 
 collections:
   - name: "blog"
@@ -17,7 +17,7 @@ collections:
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Summary", name: "excerpt", widget: "text" }
-      - { label: "Created",name: "created", widget: "date", format: 'MMM Do YY' }
+      - { label: "Created",name: "created", widget: "date", format: 'YYYY-MM-DD' }
       - { label: "Image",name: "image",widget: "image", choose_url: true }
       - { label: "Image Caption", name: "image_caption", widget: "text" }
       - { label: "Author", name: "author", widget: "list" }
