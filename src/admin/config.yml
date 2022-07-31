@@ -6,6 +6,7 @@ backend:
 media_folder: "content/blog"
 public_folder: "/images/uploads"
 
+
 collections:
   - name: "blog"
     label: "post"
