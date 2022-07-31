@@ -3,13 +3,12 @@ backend:
   repo: Ultiblog/irrelevant-subject
   branch: main
 
-media_folder: "content/blog"
-public_folder: "../../static/images/uploads"
-
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections:
   - name: "blog"
-    label: "post"
+    label: "Post"
     folder: "content/blog"
     create: true
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
