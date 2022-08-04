@@ -1,9 +1,9 @@
 <template>
   <Layout>
-      <content-header 
-        :title="$static.metadata.siteName" 
+      <content-header
+        :title="$static.metadata.siteName"
         :sub="$static.metadata.siteDescription"
-        image="bananaa.jpg">
+        :image="randomImage()">
       </content-header>
 
       <div class="container mx-auto">
@@ -98,6 +98,23 @@ export default {
     CardItem,
     FeaturedCard,
     ContentHeader
-  }
+  },
+  data() {
+    return {
+      images: [
+        'bananaa.jpg',
+        'benjamin-voros-phIFdC6lA4E-unsplash.jpg',
+        'jay-mantri-TFyi0QOx08c-unsplash.jpg',
+        'phoenix-han-Nqdh0G8rdCc-unsplash.jpg'
+      ],
+    };
+  },
+  methods: {
+    randomImage() {
+      return `${
+          this.images[Math.floor(Math.random() * this.images.length)]
+      }`;
+    },
+  },
 };
 </script>
