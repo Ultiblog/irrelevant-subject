@@ -46,7 +46,7 @@
             <p>
               <time :datetime="record.datetime">{{ record.humanTime }}</time>
               &nbsp;&bull;&nbsp;
-              {{ record.timeToRead }} min read
+              {{ record.timeToRead }} λεπτά για ανάγνωση
             </p>
           </div>
         </g-link>

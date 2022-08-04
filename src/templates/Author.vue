@@ -95,7 +95,7 @@
               path
               timeToRead
               featured
-              humanTime: created(format: "DD MMM YYYY")
+              humanTime: created(format: "DD/MM/YYYY")
               datetime: created
               category {
                 id

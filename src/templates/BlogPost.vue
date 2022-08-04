@@ -15,7 +15,7 @@
             >{{ $page.blog.category.title }}</g-link>&nbsp;&middot;&nbsp;
             <time :datetime="$page.blog.datetime">{{ $page.blog.humanTime }}</time>
             &nbsp;&middot;&nbsp;
-            {{ $page.blog.timeToRead }} min read
+            {{ $page.blog.timeToRead }} λεπτά για ανάγνωση
           </span>
         </section>
       </div>
@@ -131,8 +131,8 @@
       image_caption
       excerpt
       content
-      humanTime : created(format:"DD MMMM YYYY")
-      datetime : created(format:"ddd MMM DD YYYY hh:mm:ss zZ")
+      humanTime : created(format:"DD/MM/YYYY")
+      datetime : created(format:"ddd MM DD YYYY hh:mm:ss zZ")
       
       timeToRead
       tags {
@@ -176,8 +176,8 @@
       image_caption
       excerpt
       content
-      humanTime : created(format:"DD MMMM YYYY")
-      datetime : created(format:"ddd MMM DD YYYY hh:mm:ss zZ")
+      humanTime : created(format:"DD/MM/YYYY")
+      datetime : created(format:"ddd MM DD YYYY hh:mm:ss zZ")
       
       timeToRead
       tags {

@@ -52,7 +52,7 @@
                 <p>
                   <time :datetime="edge.node.datetime">{{ edge.node.humanTime }}</time>
                   &nbsp;&bull;&nbsp;
-                  {{ edge.node.timeToRead }} min read
+                  {{ edge.node.timeToRead }} λεπτά για ανάγνωση
                 </p>
               </div>
             </div>

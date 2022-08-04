@@ -25,7 +25,7 @@
                     <p class="text-xs">
                       <time :datetime="edge.node.datetime">{{ edge.node.humanTime }}</time>
                       &nbsp;&bull;&nbsp;
-                      {{ edge.node.timeToRead }} min read
+                      {{ edge.node.timeToRead }} λεπτά για ανάγνωση
                     </p>
                   </div>
                 </div>
@@ -131,7 +131,7 @@ query {
         title
         path
         image(width:230, height:130)
-        humanTime: created(format: "DD MMM YYYY")
+        humanTime: created(format: "DD/MM/YYYY")
         datetime: created
         timeToRead
       }
