@@ -35,6 +35,11 @@
       "name": "Επιστήμη",
       "link": "/category/science",
       "external": false
+    },
+    {
+      "name": "Αθλητικά",
+      "link": "/category/sports",
+      "external": false
     }
   ],
   "footerNavigation": [
