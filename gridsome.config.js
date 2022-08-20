@@ -100,7 +100,7 @@ module.exports = {
             path: '/posts/:title'
         }],
         CustomPage: [{
-            path: '/:title-image_caption',
+            path: '/:title-:image_caption',
             component: '~/templates/CustomPage.vue'
         }],
         Category: [{
