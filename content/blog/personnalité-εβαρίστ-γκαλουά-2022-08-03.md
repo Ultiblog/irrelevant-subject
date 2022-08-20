@@ -1,7 +1,7 @@
 ---
 title: " Personnalité : Εβαρίστ Γκαλουά "
 tags:
-  - Science
+  - "#science"
 category:
   - science
 excerpt: "Επαναστατικός , άτυχος και πανέξυπνος . Αυτά είναι κατα την γνώμη μου
