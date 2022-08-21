@@ -34,7 +34,6 @@
           >
             <font-awesome :icon="['fab', 'instagram']" />
           </a>
-
           &nbsp;
           <a
             :href="$page.author.twitter"
@@ -88,6 +87,7 @@
       image(width:150, height:150)
       cover
       facebook
+      instagram
       twitter
       linkedin
       belongsTo(perPage: 6, page: $page) @paginate {

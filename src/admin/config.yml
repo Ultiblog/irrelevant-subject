@@ -35,8 +35,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Profile Image", name: "profile_image", widget: "image", choose_url: true }
-      - { label: "Background Image", name: "background_image", widget: "image", choose_url: true }
+      - { label: "Profile Image", name: "image", widget: "image", choose_url: true }
+      - { label: "Background Image", name: "cover", widget: "image", choose_url: true }
       - { label: "Bio", name: "bio", widget: "text" }
       - { label: "Facebook", name: "facebook", widget: "string" }
       - { label: "Instagram", name: "instagram", widget: "string" }
