@@ -97,7 +97,7 @@ module.exports = {
     },
     templates: {
         Blog: [{
-            path: '/posts/:title'
+            path: '/posts/:title-:created'
         }],
         CustomPage: [{
             path: '/:title-:image_caption',
