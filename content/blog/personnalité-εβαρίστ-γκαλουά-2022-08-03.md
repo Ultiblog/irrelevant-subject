@@ -1,4 +1,5 @@
 ---
+id: "bb7faa52-9f28-444c-9c00-8fa3b595b9e1"
 title: " Personnalité : Εβαρίστ Γκαλουά "
 tags:
   - "#science"

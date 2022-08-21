@@ -54,19 +54,19 @@
       "external": true
     },
     {
-      "name": "Twitter",
-      "link": "https://www.twitter.com",
-      "external": true
-    },
-    {
       "name": "Instagram",
       "link": "https://www.instagram.com",
       "external": true
     },
     {
-      "name": "RSS",
-      "link": "/rss.xml",
-      "external": false
+      "name": "Twitter",
+      "link": "https://www.twitter.com",
+      "external": true
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com",
+      "external": true
     }
   ]
 }

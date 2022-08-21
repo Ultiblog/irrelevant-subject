@@ -1,8 +1,9 @@
 ---
 id: kalts
-name: Georgios Kaltsounis
+name: Γιώργος Καλτσούνης
 bio: Logistics pro I guess..
 facebook: https://www.facebook.com
+instagram: https://www.instagram.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
 image: ./images/author2.png

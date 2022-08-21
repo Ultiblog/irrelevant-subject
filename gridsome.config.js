@@ -97,7 +97,7 @@ module.exports = {
     },
     templates: {
         Blog: [{
-            path: '/posts/:title-:created'
+            path: '/posts/:id'
         }],
         CustomPage: [{
             path: '/:title-:image_caption',
@@ -108,7 +108,7 @@ module.exports = {
             component: '~/templates/Category.vue'
         }],
         Author: [{
-            path: '/author/:name',
+            path: '/author/:id',
             component: '~/templates/Author.vue'
         }],
         Tag: [{

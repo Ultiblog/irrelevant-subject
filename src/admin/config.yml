@@ -13,6 +13,8 @@ collections:
     create: true
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
+      - { label: "ID", name: "id", widget: "ncw-id", prefix: "post", timestamp: "true",
+          hint: "This widget generate an unique read-only id" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Tags (seperate with comma, e.x. one, two)", name: "tags", widget: "list" }
       - { label: "Category", name: "category", widget: "select", multiple: true,
@@ -25,3 +27,18 @@ collections:
           options: [ "louk", "kalts", "random" ] }
       - { label: "Featured", name: "featured", widget: "boolean", default: false }
       - { label: 'Blog post content', name: 'content', widget: 'markdown' }
+
+  - name: "authors"
+    label: "Author"
+    folder: "content/authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Profile Image", name: "profile_image", widget: "image", choose_url: true }
+      - { label: "Background Image", name: "background_image", widget: "image", choose_url: true }
+      - { label: "Bio", name: "bio", widget: "text" }
+      - { label: "Facebook", name: "facebook", widget: "string" }
+      - { label: "Instagram", name: "instagram", widget: "string" }
+      - { label: "Twitter", name: "twitter", widget: "string" }
+      - { label: "LinkedIn", name: "linkedin", widget: "string" }
