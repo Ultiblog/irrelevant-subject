@@ -14,7 +14,7 @@
             <input
               type="text"
               class="flex-shrink flex-grow flex-auto text-gray-700 dark:text-gray-600 leading-normal w-px border h-12 text-xl md:h-16 md:text-3xl border-l-0 focus:outline-none focus:shadow-none border-gray-500 dark:bg-gray-900 dark:border-gray-700 rounded rounded-l-none px-3 relative"
-              placeholder="Search..."
+              placeholder="Αναζήτηση..."
               id="search"
               v-model="searchTerm"
             />

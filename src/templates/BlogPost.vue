@@ -107,7 +107,7 @@
       <div class="container mx-auto">
         
         <div class="text-center">
-          <h4 class="font-light my-0">Recommended for you</h4>
+          <h4 class="font-light my-0">Προτεινόμενα για εσάς</h4>
         </div>
         <div class="flex flex-wrap justify-center pt-8 pb-8">
           

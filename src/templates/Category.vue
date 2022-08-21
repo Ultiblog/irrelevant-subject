@@ -79,10 +79,10 @@ export default {
   computed: {
     postLabel: function() {
       var pluralize = require("pluralize");
-      return pluralize("post", this.$page.category.belongsTo.totalCount);
+      return pluralize("ποστ", this.$page.category.belongsTo.totalCount);
     },
     subTitle: function() {
-      return `A collection of ${this.$page.category.belongsTo.totalCount} ${this.postLabel}`;
+      return `Μια συλλογή από ${this.$page.category.belongsTo.totalCount} ${this.postLabel}`;
     }
   },
   metaInfo() {

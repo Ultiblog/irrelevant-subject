@@ -2,7 +2,7 @@
   <div class="container mx-auto">
     <div class="flex flex-wrap md:my-4 md:mx-4">
       <div class="w-full mb-2">
-        <h2 class="text-xl mt-0 mb-2">Recent articles</h2>
+        <h2 class="text-xl mt-0 mb-2">Πρόσφατα άρθρα</h2>
 
         <div class="w-full">
           <VueSlickCarousel :arrows="true" :dots="false" class="-mx-4" v-bind="sliderSettings">
@@ -45,7 +45,7 @@
         </div>
       </div>
       <div class="w-full mb-8">
-        <h2 class="text-xl mt-2 mb-2">Tags</h2>
+        <h2 class="text-xl mt-2 mb-2">Ετικέτες</h2>
 
         <ul class="flex flex-wrap">
           <li class="text-xs bg-transparent hover:text-blue-700 py-2 px-4 mr-4 mb-4 border hover:border-blue-500 border-gray-600 text-gray-700 dark:text-gray-400 rounded-full" v-for="tag in $static.tags.edges" :key="tag.node.id">
