@@ -44,17 +44,17 @@
               <div class="w-full flex justify-center md:w-10/12 mb-4 text-center">
                 <div class="mb-2 sm:mb-0 w-full">
                   <div class="md:flex p-6 pl-0 self-center">
-                    <g-image
-                      :src="$page.blog.author[0].image"
-                      class="h-16 w-16 md:h-24 md:w-24 mx-auto md:mx-0 md:mr-6 rounded-full bg-gray-200"
-                    ></g-image>
-
+                    <g-link :to="$page.blog.author[0].path">
+                    <g-image :src="$page.blog.author[0].image"
+                      class="h-16 w-16 md:h-24 md:w-24 mx-auto md:mx-0 md:mr-6 rounded-full bg-gray-200">
+                    </g-image>
+                    </g-link>
                     <div class="text-center md:text-left">
                       <g-link :to="$page.blog.author[0].path" class="text-black dark:text-white">
                         <h2 class="text-lg my-1 mt-2 md:mt-0">{{ $page.blog.author[0].name }}</h2>
                       </g-link>
                       <div v-if="authors.length>0" class="post-authors font-light text-sm pt-2">
-                        Among with
+                        Μαζί με
                         <g-link
                           class="font-normal"
                           :to="author.path"
@@ -65,34 +65,6 @@
                       <div
                         class="font-light tracking-wider leading-relaxed py-4"
                       >{{ $page.blog.author[0].bio }}</div>
-                      <div class>
-                        <a
-                          :href="$page.blog.author[0].facebook"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          class="hover:text-blue-500"
-                        >
-                          <font-awesome :icon="['fab', 'facebook']" />
-                        </a>
-                        &nbsp;
-                        <a
-                          :href="$page.blog.author[0].twitter"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          class="hover:text-blue-500"
-                        >
-                          <font-awesome :icon="['fab', 'twitter']" />
-                        </a>
-                        &nbsp;
-                        <a
-                          :href="$page.blog.author[0].linkedin"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          class="hover:text-blue-500"
-                        >
-                          <font-awesome :icon="['fab', 'linkedin']" />
-                        </a>
-                      </div>
                     </div>
                   </div>
                 </div>
@@ -105,12 +77,12 @@
 
     <section class="post-related pt-10" v-if="relatedRecords.length>0">
       <div class="container mx-auto">
-        
+
         <div class="text-center">
           <h4 class="font-light my-0">Προτεινόμενα για εσάς</h4>
         </div>
         <div class="flex flex-wrap justify-center pt-8 pb-8">
-          
+
           <CardItem
             :record="relatedRecord.node"
             v-for="relatedRecord in relatedRecords"
@@ -133,7 +105,7 @@
       content
       humanTime : created(format:"DD/MM/YYYY")
       datetime : created(format:"ddd MM DD YYYY hh:mm:ss zZ")
-      
+
       timeToRead
       tags {
         id
@@ -178,7 +150,7 @@
       content
       humanTime : created(format:"DD/MM/YYYY")
       datetime : created(format:"ddd MM DD YYYY hh:mm:ss zZ")
-      
+
       timeToRead
       tags {
         id
@@ -212,7 +184,7 @@
     }
 
 
-    
+
   }
 </page-query>
 

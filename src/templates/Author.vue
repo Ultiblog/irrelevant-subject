@@ -140,7 +140,7 @@ export default {
   computed: {
     postLabel: function() {
       var pluralize = require("pluralize");
-      return pluralize("post", this.$page.author.belongsTo.totalCount);
+      return pluralize("ποστ", this.$page.author.belongsTo.totalCount);
     }
   },
   metaInfo() {

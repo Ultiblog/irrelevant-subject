@@ -2,17 +2,22 @@
     "social" : [
         {
             "name": "Facebook",
-            "link": "#",
+            "link": "https://facebook.com",
             "icon": "facebook-square"
         },
         {
             "name": "Instagram",
-            "link": "#",
+            "link": "https://instagram.com",
             "icon": "instagram"
         },
         {
+            "name": "Twitter",
+            "link": "https://twitter.com",
+            "icon": "twitter"
+        },
+        {
             "name": "LinkedIn",
-            "link": "#",
+            "link": "https://linkedin.com",
             "icon": "linkedin"
         }
     ]

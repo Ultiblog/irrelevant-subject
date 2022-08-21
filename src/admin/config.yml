@@ -14,7 +14,7 @@ collections:
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "ID", name: "id", widget: "ncw-id", prefix: "post", timestamp: "true",
-          hint: "This widget generate an unique read-only id" }
+          hint: "Do not touch this one :)" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Tags (seperate with comma, e.x. one, two)", name: "tags", widget: "list" }
       - { label: "Category", name: "category", widget: "select", multiple: true,
@@ -34,6 +34,8 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
+      - { label: "Profile URL", name: "id", widget: "string",
+          hint: "Don't modify for old users. Just for new, and could be anything, like nikos, papas, etc." }
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Profile Image", name: "image", widget: "image", choose_url: true }
       - { label: "Background Image", name: "cover", widget: "image", choose_url: true }
