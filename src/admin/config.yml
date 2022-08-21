@@ -30,7 +30,7 @@ collections:
 
   - name: "authors"
     label: "Author"
-    folder: "content/authors"
+    folder: "content/author"
     create: true
     slug: "{{slug}}"
     fields:
