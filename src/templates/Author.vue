@@ -27,6 +27,16 @@
           </a>
           &nbsp;
           <a
+              :href="$page.author.instagram"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-gray-400 hover:text-white"
+          >
+            <font-awesome :icon="['fab', 'instagram']" />
+          </a>
+
+          &nbsp;
+          <a
             :href="$page.author.twitter"
             target="_blank"
             rel="noopener noreferrer"
