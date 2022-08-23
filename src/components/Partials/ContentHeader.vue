@@ -61,7 +61,7 @@ export default {
   },
   computed: {
     hasImage() {
-      return this.image ? true : false;
+      return !!this.image;
     }
   }
 };
