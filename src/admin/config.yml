@@ -14,19 +14,19 @@ collections:
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "ID", name: "id", widget: "ncw-id", prefix: "post", timestamp: "true",
-          hint: "Do not touch this one :)" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Tags (seperate with comma, e.x. one, two)", name: "tags", widget: "list" }
-      - { label: "Category", name: "category", widget: "select", multiple: true,
+          hint: "Δεν το πειράζουμε αυτό." }
+      - { label: "Τίτλος", name: "title", widget: "string" }
+      - { label: "Ταγκ (χώρισε τα με κόμμα, π.χ. μία, ωραία, πεταλούδα)", name: "tags", widget: "list" }
+      - { label: "Κατηγορία", name: "category", widget: "select", multiple: true,
           options: [ "movies", "tvshows", "music", "aspects", "science", "sports" ] }
-      - { label: "Summary", name: "excerpt", widget: "text" }
-      - { label: "Created",name: "created", widget: "date", format: 'YYYY-MM-DD' }
-      - { label: "Image",name: "image",widget: "image", choose_url: true }
-      - { label: "Image Caption", name: "image_caption", widget: "text" }
-      - { label: "Author", name: "author", widget: "select", multiple: true,
+      - { label: "Λίγα λόγια", name: "excerpt", widget: "text" }
+      - { label: "Ημερομηνία",name: "created", widget: "date", format: 'YYYY-MM-DD' }
+      - { label: "Εικόνα",name: "image",widget: "image", choose_url: true }
+      - { label: "Περιγραφή εικόνας", name: "image_caption", widget: "text" }
+      - { label: "Συγγραφέας (μπορούν να είναι και περισσότεροι από ένας)", name: "author", widget: "select", multiple: true,
           options: [ "louk", "kalts", "random" ] }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
-      - { label: 'Blog post content', name: 'content', widget: 'markdown' }
+      - { label: "Αν θα μπει στο πρωτοσέλιδο", name: "featured", widget: "boolean", default: false }
+      - { label: "Τι θα λέει το άρθρο", name: "content", widget: "markdown" }
 
   - name: "authors"
     label: "Author"
@@ -34,13 +34,14 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Profile URL", name: "id", widget: "string",
-          hint: "Don't modify for old users. Just for new, and could be anything, like nikos, papas, etc." }
-      - { label: "Name", name: "name", widget: "string" }
-      - { label: "Profile Image", name: "image", widget: "image", choose_url: true }
-      - { label: "Background Image", name: "cover", widget: "image", choose_url: true }
-      - { label: "Bio", name: "bio", widget: "text" }
-      - { label: "Facebook", name: "facebook", widget: "string" }
-      - { label: "Instagram", name: "instagram", widget: "string" }
-      - { label: "Twitter", name: "twitter", widget: "string" }
-      - { label: "LinkedIn", name: "linkedin", widget: "string" }
+      - { label: "ID", name: "id", widget: "string",
+          hint: "Αυτό δεν το πειράζουμε για παλιούς χρήστες που έχουν ήδη άρθρα, γιατί θα χαλάσουν όλα
+          τα άρθρα τους. Κατά την δημιουργία νέου χρήστη μπορεί το ID να είναι οτιδήποτε." }
+      - { label: "Όνομα που θα εμφανίζεται", name: "name", widget: "string" }
+      - { label: "Εικίνα προφίλ", name: "image", widget: "image", choose_url: true }
+      - { label: "Εικόνα που θα εμφανίζεται στο παρασκήνιο", name: "cover", widget: "image", choose_url: true }
+      - { label: "Λίγα λόγια για τον αρθρογράφο (ασχολίες κλπ)", name: "bio", widget: "text" }
+      - { label: "Σύνδεσμος Facebook", name: "facebook", widget: "string" }
+      - { label: "Σύνδεσμος Instagram", name: "instagram", widget: "string" }
+      - { label: "Σύνδεσμος Twitter", name: "twitter", widget: "string" }
+      - { label: "Σύνδεσμος LinkedIn", name: "linkedin", widget: "string" }
