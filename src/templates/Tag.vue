@@ -82,7 +82,7 @@ export default {
       return pluralize("post", this.$page.tag.belongsTo.totalCount);
     },
     subTitle: function() {
-      return `A collection of ${this.$page.tag.belongsTo.totalCount} ${this.postLabel}`;
+      return `Μία συλλογή από ${this.$page.tag.belongsTo.totalCount} ${this.postLabel}`;
     }
   },
   metaInfo() {
