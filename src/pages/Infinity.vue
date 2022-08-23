@@ -3,7 +3,7 @@
     <content-header
       :title="$static.metadata.siteName"
       :sub="$static.metadata.siteDescription"
-      image="bananaa.jpg"
+      image="1.jpg"
     ></content-header>
 
     <div class="container mx-auto">
