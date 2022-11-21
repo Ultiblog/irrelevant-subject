@@ -97,10 +97,10 @@ module.exports = {
     },
     templates: {
         Blog: [{
-            path: '/posts/:title-:id'
+            path: '/posts/:id'
         }],
         CustomPage: [{
-            path: '/:title-:image_caption',
+            path: '/:id-:image_caption',
             component: '~/templates/CustomPage.vue'
         }],
         Category: [{
