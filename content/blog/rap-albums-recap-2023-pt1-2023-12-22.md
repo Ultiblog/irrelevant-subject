@@ -26,7 +26,7 @@ content: >-
 
 
 
-  **FANN / Κύριος Νεκρικός**
+  FANN / Κύριος Νεκρικός
 
 
 
@@ -36,7 +36,12 @@ content: >-
 
 
 
-  **Βαθμός : 7.3/10**
+  ![](https://lh7-us.googleusercontent.com/qi6LegnShr3TSg5BfO7Kkd3gi4f8t3FOP6kMQTpvm5qWJh0-Cgg2aMCxk3lgg1SU7Trk8j7v4nZUw7JIgF9FK_Yw4C3XJ0hii9IBV-xUEGFC-MzGL0DTIXzzOEIyEk_qKl3rUSh138iKUtCR_Lz53Nc)
+
+
+
+
+  Βαθμός : 7.3/10
 
 
 
@@ -46,7 +51,7 @@ content: >-
 
 
 
-  **Dani Gambino / Επικίνδυνοι Πολίτες** 
+  Dani Gambino / Επικίνδυνοι Πολίτες 
 
 
 
@@ -56,7 +61,12 @@ content: >-
 
 
 
-  **Βαθμός : 8.2/10**
+  ![](https://lh7-us.googleusercontent.com/kRwk7uI6fRLWAphSRJ3u93-_Rrnj0uXQ2PCy7Z18u3Fz-DcsuFOx1iNLweuodtqu-pNUPb5ss1y7bAQLF72OnGaPqYjbXNAyJIuBHZjEIldJNYrdK_vtaeCRs7kv93yrGrY6zlK1fOuqWB3pl2okF8U)
+
+
+
+
+  Βαθμός : 8.2/10
 
 
 
@@ -66,7 +76,7 @@ content: >-
 
 
 
-  **Negros Tou Moria / Thrassos** 
+  Negros Tou Moria / Thrassos 
 
 
 
@@ -74,9 +84,66 @@ content: >-
    Οτι πιο πρωτότυπο είδαμε φέτος , παντρεύοντας δύο είδη μουσικής υπέροχα , τα ρεμπέτικα με την ραπ (“Είμαστε οι πρώτοι τραμπέτες”) . Πολλά διαφορετικά flow ακόμα και στα ίδια τραγούδια , ωραία αντιρατσιστικά και κοινωνικά μηνύματα , απίστευτο diversity και μια δουλειά που θα μείνει . Όσο ακούς τον δίσκο τόσο πιο πολύ σου αρέσει γιατί το αυτί σου ξεκινάει και σιγά σιγά συνηθίζει αυτόν τον νέο ήχο . Ίσως το 6,7/10 να τον αδικεί καθώς προέρχεται από 1-2 ακροάσεις και ίσως να μην είναι αρκετές για να τον αξιολογήσεις σωστά . Μακάρι στο μέλλον να δούμε και άλλες δουλειές με παρόμοια πρωτοτυπία .
 
 
-  **\
 
-  Βαθμός : 6,7/10**
+
+  ![](https://lh7-us.googleusercontent.com/qEkfi8GscQ5hf890ZISsPf8VEGpJyZVqXDgN4c0kncVV0YD8FIy4cpwmi_cQZpPAwT0WMZCmfy96BuYNC3xDxh7FR4t3TAtSSFGXaElexJh_sYb8cqdAUWkpbcWLq-adTpCkw3uCQcszAJLqcQElLzo)
+
+
+
+
+  Βαθμός : 6,7/10 
+
+
+
+
+  \-
+
+
+
+
+  Mikros Kleftis-Tsaki / Cash Out 
+
+
+
+
+  Άλλος ένας φοβερός δίσκος που θα συνεχίσει να ακούγεται για πολλά χρόνια ακόμα . Η συζήτηση γύρω από αυτόν τον δίσκο γινόταν αποκλειστικά πάνω στο αν είναι πιο πολύ δίσκος Tsaki ή MK . Κατα την γνώμη μου ήταν και των 2 το ίδιο . Ο συνδυασμός τους ήταν τέλειος και ο ήχος που βγήκε ήταν πολύ κοντά σε αυτά που τους έχουμε συνηθίσει να κάνουν ο καθένας ξεχωριστά . Φοβερά vibes , έξυπνα punchlines και πολύ καλές παράγωγες . Τέλος ξεχωριστό και φουλ ενδιαφέρον εξώφυλλο . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/T0-u_Lhf4YJMIsISI4ITqjbT8Bn8qGdil2XAxM93-oOAMaNY717U4NLhOcRCb5zurBUUcUsz35Wp6gH7CaIYY4HWy9uuRr6YG4RxeDm90cPbzAJ8FY3Iqa5PtWLMT7FeXpC7k-eh9u-AwDTKFfOF0gQ)
+
+
+
+
+  Βαθμός : 8.1/10
+
+
+
+
+  \-
+
+
+
+
+  THUG SLIME / SEX TAPE
+
+
+
+
+  Μουσική είναι , σε κάποιους θα αρέσει σε κάποιους άλλους όχι . Απλά αυτός ο δίσκος δεν είναι για μένα . Μπορεί να μην είναι εκπαιδευμένο το αυτί μου , μπορεί να τον αδικώ καθώς ο βαθμός προέρχεται μόνο από μια ακρόαση  , μπορεί το ένα , μπορεί το άλλο . Έχει ορισμένα beats που μου άρεσαν και κάποια τραγούδια που θα ξανακουγα ευχάριστα αλλά συνολικά σαν δίσκος για μένα τίποτα το ιδιαίτερο . Τέλος μου άρεσε το γεγονός ότι το όνομα του δίσκου συνδέεται ωραία με το vibe του και με τα τραγούδια του . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/U5yZkjkPE06wbiLyQnZMjXEleZqrvA0qsydzAlkU-wEcvRBsaqRfNrkCzHSCp2DbBOXPEzCTuxivkaiV_QzK7CFuUXN45tBKlQ0Aj5OMgDYfFyITczA8GFG4wpiRGodGewx-dSAdSs7oCOVRVE1zMZ0)
+
+
+
+
+  Βαθμός : 6.2/10 
+
+
 
 
   <!--EndFragment-->
