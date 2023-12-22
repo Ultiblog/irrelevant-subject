@@ -8,6 +8,7 @@ tags:
   - PART1
 category:
   - aspects
+  - music
 excerpt: "Πάμε να κάνουμε το Rap Albums Recap για το 2023 , να δούμε τι μας
   άρεσε και τι όχι και να κατατάξουμε με βάση το τι μάς άρεσε πιο πολύ. "
 created: 2023-12-22
