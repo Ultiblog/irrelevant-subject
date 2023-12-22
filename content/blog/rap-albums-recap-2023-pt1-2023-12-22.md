@@ -26,7 +26,7 @@ content: >-
 
 
 
-  FANN / Κύριος Νεκρικός
+  **FANN / Κύριος Νεκρικός**
 
 
 
@@ -36,22 +36,22 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/qi6LegnShr3TSg5BfO7Kkd3gi4f8t3FOP6kMQTpvm5qWJh0-Cgg2aMCxk3lgg1SU7Trk8j7v4nZUw7JIgF9FK_Yw4C3XJ0hii9IBV-xUEGFC-MzGL0DTIXzzOEIyEk_qKl3rUSh138iKUtCR_Lz53Nc)
+  ![](https://lh7-us.googleusercontent.com/vL_f2-h47eN5OsUD_LtvSwbAvFUl86ws6AjvVHpIPEHfr3wNss354YpIoy2pDJk_bR2gMOlK59liEpHYbZJ8i0Rue4pcg4ow1gnAQSaqGS0zzcvhiyB5B1vd8N8Iwf3vpc5mKcySVkcJcES3h4OrPyo)
 
 
 
 
-  Βαθμός : 7.3/10
+  **Βαθμός : 7.3/10**
 
 
 
 
-  \-
+  **\-**
 
 
 
 
-  Dani Gambino / Επικίνδυνοι Πολίτες 
+  **Dani Gambino / Επικίνδυνοι Πολίτες** 
 
 
 
@@ -61,22 +61,22 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/kRwk7uI6fRLWAphSRJ3u93-_Rrnj0uXQ2PCy7Z18u3Fz-DcsuFOx1iNLweuodtqu-pNUPb5ss1y7bAQLF72OnGaPqYjbXNAyJIuBHZjEIldJNYrdK_vtaeCRs7kv93yrGrY6zlK1fOuqWB3pl2okF8U)
+  ![](https://lh7-us.googleusercontent.com/hJRB04FoKcRdCdktfC2VXVLV1uoKhMEkfGStfVxqkHc5C9F2VlqhUeuM2WokzLyuBPuKrGvLbV2R_m2qVRZevy_kxPcOK39LmHDkOYGjWeskDh0Tymu29TZLYKK_7iG6jeBM2W83nDwHNlXd4QfkP48)
 
 
 
 
-  Βαθμός : 8.2/10
+  **Βαθμός : 8.2/10**
 
 
 
 
-  \-
+  **\-**
 
 
 
 
-  Negros Tou Moria / Thrassos 
+  **Negros Tou Moria / Thrassos** 
 
 
 
@@ -86,22 +86,22 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/qEkfi8GscQ5hf890ZISsPf8VEGpJyZVqXDgN4c0kncVV0YD8FIy4cpwmi_cQZpPAwT0WMZCmfy96BuYNC3xDxh7FR4t3TAtSSFGXaElexJh_sYb8cqdAUWkpbcWLq-adTpCkw3uCQcszAJLqcQElLzo)
+  ![](https://lh7-us.googleusercontent.com/onKpBALVIWcHrcZnNcMzGzixUuO4uQwCE0k2NVUjKMNLGRSEtXLH2h2ZpzugNYZIrAg-PnOlrzbU2hxdGOkz0z2ye7ihMdq8ZkZCOYv9vK_B5mKSDA_nr_ws7exGurexvCstQTJDaJh-b36tfBuJcIM)
 
 
 
 
-  Βαθμός : 6,7/10 
+  **Βαθμός : 6,7/10** 
 
 
 
 
-  \-
+  **\-**
 
 
 
 
-  Mikros Kleftis-Tsaki / Cash Out 
+  **Mikros Kleftis-Tsaki / Cash Out** 
 
 
 
@@ -111,22 +111,22 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/T0-u_Lhf4YJMIsISI4ITqjbT8Bn8qGdil2XAxM93-oOAMaNY717U4NLhOcRCb5zurBUUcUsz35Wp6gH7CaIYY4HWy9uuRr6YG4RxeDm90cPbzAJ8FY3Iqa5PtWLMT7FeXpC7k-eh9u-AwDTKFfOF0gQ)
+  ![](https://lh7-us.googleusercontent.com/s3lIWclB1n73YjvX1uDK9G2MxPNX_asZ53fgDMN2m2FfwlNzIwmZ8-0hLHkJYX3CdKRAR8s2hxWIUi23rR_l0Z7JDRhVredmJ4EgLlm4yYnRgtluR-DYoZ9WfJsueLwT02t-XTZFs166rM5OYm0W8yA)
 
 
 
 
-  Βαθμός : 8.1/10
+  **Βαθμός : 8.1/10**
 
 
 
 
-  \-
+  **\-**
 
 
 
 
-  THUG SLIME / SEX TAPE
+  **THUG SLIME / SEX TAPE**
 
 
 
@@ -136,12 +136,289 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/U5yZkjkPE06wbiLyQnZMjXEleZqrvA0qsydzAlkU-wEcvRBsaqRfNrkCzHSCp2DbBOXPEzCTuxivkaiV_QzK7CFuUXN45tBKlQ0Aj5OMgDYfFyITczA8GFG4wpiRGodGewx-dSAdSs7oCOVRVE1zMZ0)
+  ![](https://lh7-us.googleusercontent.com/L6SZTFCH_3WEhCSsIRcAJUXSw-AWv4HDFi4aNKr95Xy-6Y-JVWQKzjYVKRPRPxrDPaDDI6zGQx6ZOUf8xjF517KrzppAvYjHASQuBIfIT-cMZv-VxKdcUB75uAWs_sCiq3VHm9Wh3qSvdZiUNW2H9Kk)
 
 
 
 
-  Βαθμός : 6.2/10 
+  **Βαθμός : 6.2/10** 
+
+
+
+
+  **\-**
+
+
+
+
+  **Tse / Tseneration** 
+
+
+
+
+  Αν πω , πως μου άρεσε ιδιαίτερα ο TSE πριν ακούσω τον δίσκο θα πω ψέματα . Υπήρχαν τραγούδια του που γούσταρα , αλλά τίποτα αμάν και τι . Παρόλα αυτά , αυτός ο δίσκος αποτελει μια ευχάριστη έκπληξη για μένα . Δίσκος με χαρακτήρα , τρομερά feats , ωραίο πάτημα πάνω στο beat και δεν μπορώ να παραλείψω και αυτό το γρέζι στην φωνή του TSE που ταιριάζει για κάποιο λόγο τόσο πολύ στον δίσκο . Δεν βρήκα τραγούδι για skip άσχετα από το γεγονός ότι δύσκολα θα ξανακούσω όλο τον δίσκο ξανά στα κοντά . Τέλος , υπήρχαν και γαμάτα Punchlines . Κέρδισε το follow μου στο spotify και δύσκολα να χάσω νέα κυκλοφορία του . *Επικό όνομα δίσκου
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/zKNJJ8nQFEOwkUMACtnnFjqAj7TdYDv1ZQi4sJlGak1D06F7kpBjEedtAILeEmpojAxY5ssj8c8vayjUMRi5UiAqMc4zu69P7n40flaPw-r9XV_BaKhbSA4nrnjb30wkSl8-snVbkTuZAqMLHdO69M4)
+
+
+
+
+  **Βαθμός : 7.2/10**
+
+
+
+
+  **\-**
+
+
+
+
+  **Buzz / Street Business**
+
+
+
+
+  Μου άρεσε ο δίσκος ? Ναι . 
+
+
+  Τον περίμενα λίγο καλύτερο ? Επίσης ναι . 
+
+
+  Ακόμα ένας δίσκος με χαρακτήρα όπως και ο “Λεωφόρος Καβάλας” (παρόλο που σε αυτόν τον δίσκο είχαμε πολλούς διαφορετικούς beat makers να βάζουν το λιθαράκι τους) , όμως με εντελώς διαφορετική θεματολογία . Δυνατές παραγωγές , δύο πολύ δυνατά feat και αρκετή ενέργεια. Προσωπικά , υπάρχουν τραγούδια του Buzz που τα βάζω άνετα στα αγαπημενα μου όλων των εποχών και γενικώς τον έχω ψηλά στους ραπερς που μου αρέσουν , για αυτό ίσως και περίμενα κάτι παραπάνω από αυτόν τον δίσκο . Υπάρχουν τραγούδια όπως το “Δάφνες” που έχω ακούσει πιο πολλές φορές από όσες μπορώ να μετρήσω αλλά υπάρχουν και άλλα τα οποία ζήτημα να έχω ακούσει 2 φορές . Παρόλα αυτά αν αφήσουμε τα high expectation που είχα στην άκρη , μιλάμε για έναν καλό δίσκο με ορισμένα πολύ ενδιαφέρον κομμάτια . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/VydPvehstK-CZ1-tJFBjyf-uCWOBmqcgpFQ3674Rdy4Cs1LGuTvabOeXVzItxqPlOm-b0IlpsDOp62ysIYPgLlck55RxVPTn8XE2wo-AtP4tfG_Tjm3PxWlztp3ZsnC9K_eseLOxxxu7Eyr3zZvBgYQ)
+
+
+
+
+  **Βαθμός : 7.3/10** 
+
+
+
+
+  \-
+
+
+
+
+  **MG / Memento**
+
+
+
+
+  Πολλά διαφορετικά flows , όμορφα vibes αλλά δεν μπορώ να πω οτι μου άρεσε και τόσο . Είναι λίγο μακριά από αυτά που μου αρέσουν εμένα να ακούω καθώς δεν το βρήκα τόσο ενδιαφέρον λυρικά αλλά ούτε είχε πολλά τραγούδια που να με παρέσυρε η μουσική και γενικότερα το vibe τους . Δεν το βρίσκω κακό δίσκο , προς θεού , απλά δεν είναι τόσο για μένα . Θα ξανά ακούσω σίγουρα πολλές φορές κάποια τραγούδια όπως το “γειτονιά pt2” αλλά τον όλο τον δίσκο δύσκολα . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/W7QMtQygJb_xfbA5bR1fHbt0ymGrGB1lHRQ4H6p9NWxo56X2cFoZ7WK2Vy4kDcbP2oPhi0IFYb7zjCOwXrV19XsKQY28pfJOFVw-0xm3eN2c7Oz_6_C8yIfgxswbZSAOL4N1kvCCbzitnTxj_9yekx4)
+
+
+
+
+  **Βαθμός : 6.8/10**
+
+
+  \-
+
+
+
+
+  **Beats Pliz / Arte Povera**
+
+
+
+
+  Τι να πρωτοπείς για αυτήν την δουλειά ; Να μιλήσεις για τις παραγωγές και το πάντρεμα του Ραπ με την συμφωνική μουσική ; Για τους ράπερ ; Οτι και να πεις κατα την γνώμη μου θα είναι λίγο . Πρωτότυπος ήχος , χωρίς ούτε μισό τραγούδι για skip , απίστευτα beat , τραγούδια με απίστευτη ενέργεια (βλ. Lavara & Balaclava , πόλη του ατόφιου κακού κ.α.) αλλά και τραγούδια που σου σηκώνουν την τρίχα όπως το Victoriam και το ευτυχισμένες μέρες . Φεύγοντας απο το ντοκιμαντέρ , είχαμε τόσο hype για τον δίσκο με την παρέα μου , που πίστευα ότι θα ξενέρωνα γιατί πολύ δύσκολα θα ανταποκρινόταν στις τεράστιες προσδοκίες που μου δημιούργησε το ντοκιμαντέρ . Παρόλα αυτά ήταν αυτό που όλοι περιμέναμε και ίσως κάτι παραπάνω , δηλαδή , ο δίσκος της χρονιάς . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/j15ZAVf5d_R00vlYALNKeYoCU6pNwf_DrlUoEt5aWo57apESAbVSPp7tCLCC0Tba63VNU3lUJoq3Y3C-F8HoTS3qCo3n5Fh_qXfAHS9pstFkLDo04xc-wxwcOyhcUDUVsY8HoWX9YclRQr_biemUubI)
+
+
+
+
+  **Βαθμός : 8.7/10**
+
+
+
+
+  \-
+
+
+
+
+  **Fly Lo / TrapLife**
+
+
+
+
+  Ωραίος δίσκος , με κάποια δυνατά τραγούδια αλλά και αρκετά που δεν είναι τόσο του στυλ μου . Είχε διάφορα στυλ μέσα , καθόλου μονότονος και με ορισμένα τραγούδια να έχουν full γαμάτο energy . Καλύτερος από ότι περίμενα και δεν με κούρασε στιγμή . Πάνω από 3-4 τραγούδια προστέθηκαν στην λίστα μου στο spotify αλλά δεν νομίζω να ακούσω στα κοντά τα υπόλοιπα . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/re7WJNkHgWZyPkfoJtmZX5xLQZ9WeUz0mxpGHw1Lj4R5IzewWpe4qp_kdludSiAQ4oSEK-_UTUtSAHgn0EgkZiAtc-T8bbDzDfOPahvYADl34IwE4n9v5ocm9SV0ftrCAQcQbBY4NEq700LkihBcL8M)
+
+
+
+
+  **Βαθμός : 7.2/10**
+
+
+
+
+  \-
+
+
+
+
+  **Grizzle / AI**
+
+
+
+
+  Τον Grizzle τον κατατάσσω στους ράπερ που θα βγάλουν μια δουλεία που θα την γουστάρω άπειρα και άλλες δύο που θα τις βρίσκω mid . Παρόλα αυτά αυτό δεν συνέβη στον δίσκο ο οποίος ήταν αρκετά ενδιαφέρον και τον άκουσα πολύ ευχάριστα . Πολύ ωραίο intro που θέλει να σε βάλει με έξυπνο τρόπο στο πνεύμα του δίσκου και κάνει και ωραία σύνδεση με το όνομα του . Πολλά punchlines απο αυτά που μας έχει συνηθίσει ο Grizzle και κάποια ωραία beat . Τέλος super feat με MK που για μένα ήταν και το highlight του δίσκου .  Ένα-δύο τραγούδια να ήταν λίγο πιο δυνατά και πρωτότυπα και θα σαν δίσκος θα ξέφευγε . Θα το περιμένουμε στον επόμενο δίσκο του Grizzle με ανυπομονησία . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/YOpUCAjBZnqkEmYfzYnSe_XJUPeFxZPB8_oF8jbpMUidMtwJVYkzI4mJxwdfERFwElQjNSXCNg8fPkD3c5F7u4KgVjGKDdDyz06CYARgmA3oajkLH-eoDikVpKSFS7sSOviRdr5O_jtPykCyh5hLRGw)
+
+
+
+
+  **Βαθμός : 7.2/10**
+
+
+
+
+  \-
+
+
+
+
+  **Pindos Atletico / ΔΕΝΤΡΙΜ** 
+
+
+
+
+  Όπως ακριβώς λέει και ο Μπέλαφον “όταν λένε για νέο ήχο πάντα παίζει το όνομα μου” . Πρωτότυπη δουλειά από αυτές που μόνο οι Pindos Atletico κάνουν τόσο τακτικά , με παραγωγές που ταιριάζουν άψογα με την νοοτροπία του δίσκου . Δεν θα πω ψέματα , υπήρξαν τραγούδια που μου άρεσαν τέρμα (π.χ. Pindos Oleo) και άλλα που τα βρήκα ψιλό αδιάφορα . Βέβαια νομίζω τέτοιους δίσκους τους αδικείς όταν τους κρίνεις με μόνο 1-2 ακροάσεις  γιατί είναι κάτι που δεν έχει συνηθίσει ακόμα το αυτί σου. Σίγουρα στις πιο ξεχωριστές δουλειές της χρονιάς και μακάρι να δούμε τέτοια πρωτοτυπία μακριά από την πεπατημένη και από άλλους καλλιτέχνες στο μέλλον. 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/toTd3pTBP7odAXelxb5WZbVtxTxzzt7oart6yEa4UvOas7URmwKveLv195rWxm0O_cN1Nt6JbHWIbh-ykCPlsnORqpO-Lp0ao7kugcepUe6E4XhPAWpdODrJ-NBTSJEvvxVtTuH1WJ25JGpubXboUUQ)
+
+
+
+
+  **Βαθμός : 7/10**
+
+
+
+
+  \-
+
+
+
+
+  **Split / Generation Z** 
+
+
+
+
+  Πολύ καλή δουλειά πάνω σε όλα τα θέματα . Πολύ καλό εξώφυλλο , πολύ ωραίες παραγωγές , ωραία feat και πολύ ωραία τραγούδια . Μεμπτός δίσκος που δεν σε αναγκάζει να σκέφτεσαι ότι αν θα τον ξανά ακούσεις θα πρέπει να skipareis τα μισά τραγούδια έχοντας μέσα και 2-3 τραγούδια που είναι ΦΩΤΙΑ. Για μένα είναι ένας από τους πιο underrated δίσκους της χρονιάς καθώς ναι μεν πήρε κάποια αναγνώριση αλλά όχι αυτή που θα του άξιζε κατα την γνώμη μου . Κλείνοντας νομίζω ότι αυτός ο δίσκος καθιερώνει ακόμα έναν ράπερ “από την πόλη που γεννάει ταλέντα” στην σκηνή και θα περιμένουμε με ανυπομονησία τις επόμενες κυκλοφορίες του. 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/MCWY188HVB2PJz0dMoBZSCy9ky9Ha833mB0NJ6SUIJTBxXzdsi4ouCibtbgaYscqhIYfFjxE3P1FPsWQPaVoJrs1llrfsDjhZ0EMp8X3mHsKIlg9mAWOgMvw2-diEWDStcIzwopR0lXgJPumIbjyCr4)
+
+
+
+
+  **Βαθμός : 7.6/10**
+
+
+
+
+  **\-**
+
+
+
+
+  **Vlospa / Mektub 2**
+
+
+  Καλύτερος από ότι περίμενα και ας είχα έτσι και αλλιώς high expectations . Καλώς ή κακώς ξέραμε οτι κατά πάσα πιθανότητα τα feat με ΛΕΞ και Bloody Hawk θα ήταν πολύ δυνατά αλλά δεν περίμενα οτι εξίσου φωτιά θα ήταν και όλα τα υπόλοιπα τραγούδια . Δεν υπήρχε ούτε ένα τραγούδι που να είπα ότι δεν μου άρεσε και ίσως μόνο ένα δύο που να βρήκα απλά καλά . Πολύ ωραίες παραγωγές , τρομερά flow και τέλεια αναλογία μεταξύ ελληνικών και γαλλικών (που κατα την γνώμη μου ήταν παραπάνω από όσο έπρεπε στον πρώτο δίσκο) . Επίσης πολύ ενδιαφέρον και το feat με τον V9 καθώς έδωσε το κάτι διαφορετικό στον δίσκο . Τέλος δεν γίνεται να παραλείψουμε το φανταστικό promo που όποιος δεν το έχει δει επιβάλλεται να το κάνει έστω και τώρα .[Είστε σίγουρα ο VLOSPA;](https://www.youtube.com/watch?v=AotQ7o9s8Xw)
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/OLgBBMmB9tJSXpLkxKa0eGoOSxUXluwdtkPvpbHKQ7G5HSu8UpoE7KzsF2TsgMZ97ovN9585eXYSL3x36HKI36ezVo1LJFoGXL4H3ERULbg_HJR_FGTX0_vwVwdTLU9aAUOJoyZA5rpYsz8UA92qOP4)
+
+
+
+
+  **Βαθμός : 8.2/10**
+
+
+
+
+  \-
+
+
+
+
+  **Ricta / Blessed**
+
+
+
+
+  Αν είχε 3-4 τραγούδια λιγότερο (τα πιο mid) , θα τον βάζαμε στην συζήτηση για τους δίσκους της χρονιάς . Δίσκος super market καθώς έχει και πολλά fight τραγούδια αλλά δεν λείπουν  και αυτά με τα πιο chill vibes , άλλα που είναι τέρμα street και άλλα τα οποία μπορείς να τα στείλεις στην κοπέλα σου . Πολλά punchlines , ορισμένα ακραια beats που κουμπώνουν τέλεια (respect σε DJ Silence και Night Grind)  αλλά υπήρχαν και σημεία που ενιωθες οτι ήταν και λίγο μονότονος . 
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/GDmlZL7wLW8oL-HY6ctIPr43zw91_F5XdhOO2VyiQRBPIcjKUXmhYEiBxlUljfhLpW5Dz9soEze3I6n8acWQ_3RZD-nY3QimW7OafsVqeM3SZhJu9Lxh2fNvVQFEsZCMYNuQREuZlFYuChS2zpiqKlA)
+
+
+
+
+  **Βαθμός : 7.6/10**
+
+
+
+
+  \-
+
+
+
+
+  **Bloody Hawk / Fthina Tricks** 
+
+
+
+
+  Ε τι να λέμε τώρα . Ένας ακόμα classic δίσκος που μας χάρισε ο Bloody και το 2023 . Αυτό που λατρεύω σε καλλιτέχνες που ακολουθώ διαχρονικά και είναι καιρό στην σκηνή είναι να βλέπω πως αλλάζει το στυλ τους και το vibe της μουσικής τους όσο μεγαλώνουν. Αυτό ακριβώς βλέπεις και στον Bloody που έχει περάσει σε ένα νέο Era που βιώνει την επιτυχία και το όνειρο του με τον δικό του τρόπο και το βγάζει τέλεια μέσα από το “φθηνά τρικς” . Απίστευτα lyrics , ωραίο flow και κάτι feats , Χριστέ μου κάτι feats , θα μας μείνουν αξέχαστα . Δεν υπήρχε ούτε καν μέτριο τραγούδι στον δίσκο και περιέχει τα πάντα .  Τέλος πολύ καλή επιλογή το outro τραγούδι “φάντασμα” με ακόμα μια ιστορία από αυτές που υπάρχουν σε κάθε δίσκο του , που σε βάζει για τα καλά μέσα στην πλοκή της .
+
+
+
+
+  ![](https://lh7-us.googleusercontent.com/IjSZCzq3d5Tdn9Mk6XgsgoJPLqwTbffVFb-y5y-T9K7jPD5EENqDOcrfYqTRBeUQKgYKbW1Ny5Qwfekfcsfi0b5HEJyw1qjG-kQ77McfIY_8yk3o0_0oY-Fh0jVJiEbL6-e5f_Ka9OoexnFUw2De7-c)
+
+
+
+
+  **Βαθμός : 8.4**
 
 
 
