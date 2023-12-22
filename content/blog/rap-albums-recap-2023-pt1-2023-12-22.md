@@ -1,7 +1,6 @@
 ---
 title: Rap Albums Recap 2023 Pt1
-tags:
-  - "#RAP"
+tags: []
 category:
   - music
 excerpt: "Πάμε να κάνουμε το Rap Albums Recap για το 2023 , να δούμε τι μας
