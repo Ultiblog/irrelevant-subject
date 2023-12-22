@@ -2,15 +2,6 @@
 title: Rap Albums Recap 2023 Pt1
 tags:
   - "#RAP"
-  - "#2023"
-  - "#ALBUM"
-  - "#MUSIC"
-  - "#RECAP"
-  - "#FANN"
-  - "#BLOODY"
-  - "#HAWK"
-  - "#ARTE"
-  - "#POVERA"
 category:
   - music
 excerpt: "Πάμε να κάνουμε το Rap Albums Recap για το 2023 , να δούμε τι μας
