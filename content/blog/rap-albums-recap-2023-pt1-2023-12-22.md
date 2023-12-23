@@ -21,7 +21,7 @@ content: >-
   <!--StartFragment-->
 
 
-  Φτάνοντας λοιπον προς το τέλος του 2023 επιβάλλεται να κάνουμε ενα Recap στο τι ακούσαμε φέτος όσον αφορά τους Ραπ δίσκους. Οι δουλειές που βγήκαν ήταν πολλές , άλλες καλές άλλες όχι και τόσο , άλλες ήταν κανονικά LP με 9+ τραγούδια ενώ άλλες EP με λιγότερα από 7. Προφανώς και οι βαθμολογίες και τα σχόλια είναι η προσωπική μου άποψη και σε καμία περίπτωση δεν νομίζω πως αυτή η άποψη έχει μεγαλύτερη βαρύτητα από του οποιουδήποτε άλλου. Επειδή οι δίσκοι είναι πάνω από 30 , θα τα χωρίσουμε σε 2 διαφορετικά άρθρα και θα τα σχολιάσουμε με την σειρά που βγήκαν . Τα Top-50 τραγούδια θα μπουν σε playlist που θα μπορείτε να βρείτε στο Spotify καθώς και τις αναλυτικές βαθμολογίες θα μπορείτε να τις βρείτε στην σελίδα μας στο Instagram. 
+  Φτάνοντας λοιπον προς το τέλος του 2023 επιβάλλεται να κάνουμε ενα Recap στο τι ακούσαμε φέτος όσον αφορά τους ελληνικούς ραπ δίσκους. Οι δουλειές που βγήκαν ήταν πολλές , άλλες καλές άλλες όχι και τόσο , άλλες ήταν κανονικά LP με 9+ τραγούδια ενώ άλλες EP με λιγότερα από 7. Προφανώς και οι βαθμολογίες και τα σχόλια είναι η προσωπική μου άποψη και σε καμία περίπτωση δεν νομίζω πως αυτή η άποψη έχει μεγαλύτερη βαρύτητα από του οποιουδήποτε άλλου. Επειδή οι δίσκοι είναι πάνω από 30 , θα τους χωρίσουμε σε 2 διαφορετικά άρθρα και θα τους σχολιάσουμε με την σειρά που κυκλοφόρησαν . Τα 50 πρώτα τραγούδια σε βαθμολογία  θα μπουν σε playlist που θα μπορείτε να βρείτε στο profil μας στο Spotify και τις αναλυτικές βαθμολογίες θα τις βρείτε στην σελίδα μας στο Instagram (irrelevant_subject_blog) .
 
 
 
@@ -31,12 +31,12 @@ content: >-
 
 
 
-  Ο δίσκος που άνοιξε το 2023 ήταν αρκετά ενδιαφέρον . Ναι μεν μικρός αλλά με ορισμένα πολύ δυνατά κομμάτια και μια φοβερή συνεργασία μπορούμε να πούμε κάλλιστα οτι ο χρόνος μπήκε με το δεξί . Μπορεί ο FANN να μην απομακρύνθηκε από αυτά που μας έχει συνηθίσει χωρίς αυτό να σημαίνει πως ήταν μονοδιάστατος καθώς υπάρχουν και πιο συναισθηματικά τραγούδια αλλά και τα πιο battle τα οποία τον εδραίωσαν στην σκηνή του ραπ .   
+  Ο δίσκος που άνοιξε το 2023 ήταν αρκετά ενδιαφέρον . Ναι μεν μικρός αλλά με ορισμένα πολύ δυνατά κομμάτια και μια φοβερή συνεργασία μπορούμε να πούμε κάλλιστα οτι ο χρόνος μπήκε με το δεξί . Μπορεί ο FANN να μην απομακρύνθηκε από αυτά που μας έχει συνηθίσει αλλά αυτό δεν σημαίνει πως ήταν μονοδιάστατος . Στον δίσκο θα βρούμε και συναισθηματικά τραγούδια αλλά και τα πιο battle τα οποία ήταν και αυτά που τον εδραίωσαν στην σκηνή .
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/vL_f2-h47eN5OsUD_LtvSwbAvFUl86ws6AjvVHpIPEHfr3wNss354YpIoy2pDJk_bR2gMOlK59liEpHYbZJ8i0Rue4pcg4ow1gnAQSaqGS0zzcvhiyB5B1vd8N8Iwf3vpc5mKcySVkcJcES3h4OrPyo)
+  ![](https://lh7-us.googleusercontent.com/ADBeJUwXivIckYm6GBokoFNsVL3y7r_Fsd9waePRCIAtMlGFxpG1-yoTqTe3JnijBt1xJNY5Yts4d2HYoE9Ug5AN-WqQjVAhptfZF3lVQLfVZLU9JbMjKu87Lgzo7nctsS_czryM4j9inu5zyvsoSLg)
 
 
 
@@ -56,12 +56,12 @@ content: >-
 
 
 
-  Δίσκος με χαρακτήρα όπως και ο πρώτος του Dani , χαρακτηριστικές παραγωγές και απίστευτες μελωδίες . Είναι αδύνατον για μένα να μην τον συμπεριλαμβάνεις στους δίσκους της χρονιάς και μπαίνει με άνεση στους δικούς μου Top-3 για το 2023 . Παρόλο που η θεματολογία ήταν κυρίως η ίδια με τον προηγούμενο δίσκο , δεν το βρήκα καθόλου βαρετό καθώς είχε πολύ δυνατά lyrics και απίστευτο energy . Επίσης όλο αυτό το κομμάτι με τις μελωδίες και τι φωνές από πίσω τον κάνει να ξεχωρίζει .  
+  Δίσκος με χαρακτήρα όπως και ο πρώτος του Dani , χαρακτηριστικές παραγωγές και απίστευτες μελωδίες . Είναι αδύνατον για μένα να μην τον συμπεριλαμβάνεις στους δίσκους της χρονιάς και μπαίνει με άνεση στους δικούς μου Top-3 για το 2023 . Παρόλο που η θεματολογία ήταν κυρίως η ίδια με τον προηγούμενο δίσκο , δεν το βρήκα καθόλου βαρετό καθώς είχε πολύ δυνατά lyrics και απίστευτο energy . Επίσης η όλη φάση με τις μελωδίες και τις χορωδίες στο backround τον έκανε να ξεχωρίζει σχετικά απο τους υπόλοιπους  και ήταν το αλατοπίπερο του δίσκου. 
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/hJRB04FoKcRdCdktfC2VXVLV1uoKhMEkfGStfVxqkHc5C9F2VlqhUeuM2WokzLyuBPuKrGvLbV2R_m2qVRZevy_kxPcOK39LmHDkOYGjWeskDh0Tymu29TZLYKK_7iG6jeBM2W83nDwHNlXd4QfkP48)
+  ![](https://lh7-us.googleusercontent.com/dcD968HnMvl2UpVD0sUl9GBUDrpRpK5sBUyCwg-9_dl_SqjxSP5PwEP5mJOhztsMNXmo8gGfGd4DBeg1uwWVZY84QMSwX6dp9CEBvlS-qoLhJ_1vificTeC9Xeo8i_TUHFFLjmjxcnv5OXaLwF4hFTM)
 
 
 
@@ -81,17 +81,17 @@ content: >-
 
 
 
-   Οτι πιο πρωτότυπο είδαμε φέτος , παντρεύοντας δύο είδη μουσικής υπέροχα , τα ρεμπέτικα με την ραπ (“Είμαστε οι πρώτοι τραμπέτες”) . Πολλά διαφορετικά flow ακόμα και στα ίδια τραγούδια , ωραία αντιρατσιστικά και κοινωνικά μηνύματα , απίστευτο diversity και μια δουλειά που θα μείνει . Όσο ακούς τον δίσκο τόσο πιο πολύ σου αρέσει γιατί το αυτί σου ξεκινάει και σιγά σιγά συνηθίζει αυτόν τον νέο ήχο . Ίσως το 6,7/10 να τον αδικεί καθώς προέρχεται από 1-2 ακροάσεις και ίσως να μην είναι αρκετές για να τον αξιολογήσεις σωστά . Μακάρι στο μέλλον να δούμε και άλλες δουλειές με παρόμοια πρωτοτυπία .
+   Οτι πιο πρωτότυπο είδαμε φέτος , παντρεύοντας δύο είδη μουσικής υπέροχα , τα ρεμπέτικα με την ραπ (“Είμαστε οι πρώτοι τραμπέτες”) . Πολλά διαφορετικά flow ακόμα και στα ίδια τραγούδια , ωραία αντιρατσιστικά και κοινωνικά μηνύματα , απίστευτο diversity και μια δουλειά που θα μείνει . Όσο ακούς τον δίσκο τόσο πιο πολύ σου αρέσει γιατί το αυτί σου ξεκινάει και σιγά σιγά συνηθίζει αυτόν τον νέο ήχο . Ίσως το 7.2 να τον αδικεί καθώς προέρχεται από 1-2 ακροάσεις και ίσως να μην είναι αρκετές για να τον αξιολογήσεις σωστά . Μακάρι στο μέλλον να δούμε και άλλες δουλειές με παρόμοια πρωτοτυπία .
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/onKpBALVIWcHrcZnNcMzGzixUuO4uQwCE0k2NVUjKMNLGRSEtXLH2h2ZpzugNYZIrAg-PnOlrzbU2hxdGOkz0z2ye7ihMdq8ZkZCOYv9vK_B5mKSDA_nr_ws7exGurexvCstQTJDaJh-b36tfBuJcIM)
+  ![](https://lh7-us.googleusercontent.com/DZB954v59eL2MQmCiYTko4ksSgBW9juhQFZ9SQgMCLpi0WI-T1SHwf1BSTO0_JDwZyHEPYr38msPyLDDCybHLotwp5u6--UVWVu3KNZR_xsCW9bqnHGdFEwy08Q6MdoxUw3pDQI0KcKgq0tB7IxkWFk)
 
 
 
 
-  **Βαθμός : 6,7/10** 
+  **Βαθμός : 7.2/10** 
 
 
 
@@ -106,12 +106,12 @@ content: >-
 
 
 
-  Άλλος ένας φοβερός δίσκος που θα συνεχίσει να ακούγεται για πολλά χρόνια ακόμα . Η συζήτηση γύρω από αυτόν τον δίσκο γινόταν αποκλειστικά πάνω στο αν είναι πιο πολύ δίσκος Tsaki ή MK . Κατα την γνώμη μου ήταν και των 2 το ίδιο . Ο συνδυασμός τους ήταν τέλειος και ο ήχος που βγήκε ήταν πολύ κοντά σε αυτά που τους έχουμε συνηθίσει να κάνουν ο καθένας ξεχωριστά . Φοβερά vibes , έξυπνα punchlines και πολύ καλές παράγωγες . Τέλος ξεχωριστό και φουλ ενδιαφέρον εξώφυλλο . 
+  Άλλος ένας φοβερός δίσκος που θα συνεχίσει να ακούγεται για πολλά χρόνια ακόμα . Η συζήτηση γύρω από αυτόν τον δίσκο γινόταν αποκλειστικά πάνω στο αν είναι πιο πολύ δίσκος Tsaki ή MK . Κατα την γνώμη μου ήταν και των 2 το ίδιο . Ο συνδυασμός τους ήταν τέλειος και ο ήχος που βγήκε ήταν πολύ κοντά σε αυτά που τους έχουμε συνηθίσει να κάνουν ο καθένας ξεχωριστά . Φοβερά vibes , έξυπνα punchlines και πολύ καλές παράγωγες . Τέλος, ξεχωριστό και φουλ ενδιαφέρον εξώφυλλο . 
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/s3lIWclB1n73YjvX1uDK9G2MxPNX_asZ53fgDMN2m2FfwlNzIwmZ8-0hLHkJYX3CdKRAR8s2hxWIUi23rR_l0Z7JDRhVredmJ4EgLlm4yYnRgtluR-DYoZ9WfJsueLwT02t-XTZFs166rM5OYm0W8yA)
+  ![](https://lh7-us.googleusercontent.com/4MIOM7GSIRam0-42B4MC_khRSIioB1s5TLzkoHY-_GwrumJhJtMRETceJ2RFHU8XptOG-5IxmLmPVyEO3bfhGbKT-z0gt1JANXc2s7gs5myepr32ZzAym7uNoqO7Q4stSdWISahgEetRW5t5JMtL16Q)
 
 
 
@@ -136,7 +136,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/L6SZTFCH_3WEhCSsIRcAJUXSw-AWv4HDFi4aNKr95Xy-6Y-JVWQKzjYVKRPRPxrDPaDDI6zGQx6ZOUf8xjF517KrzppAvYjHASQuBIfIT-cMZv-VxKdcUB75uAWs_sCiq3VHm9Wh3qSvdZiUNW2H9Kk)
+  ![](https://lh7-us.googleusercontent.com/-az2ic60u5N5-ome0QIqr-iUozIiAmFu3qAxSLwUfNq8P7Jc2G0AhoPlokbGE3HmAWb24Mc9FkLz-7pY5iGcW3NASB9epjbFGEGi7tGO_yk9JRMC6-zqPT7zbfp5DeX85PPZzMO5aja_1TxJa4bgUBs)
 
 
 
@@ -156,12 +156,15 @@ content: >-
 
 
 
-  Αν πω , πως μου άρεσε ιδιαίτερα ο TSE πριν ακούσω τον δίσκο θα πω ψέματα . Υπήρχαν τραγούδια του που γούσταρα , αλλά τίποτα αμάν και τι . Παρόλα αυτά , αυτός ο δίσκος αποτελει μια ευχάριστη έκπληξη για μένα . Δίσκος με χαρακτήρα , τρομερά feats , ωραίο πάτημα πάνω στο beat και δεν μπορώ να παραλείψω και αυτό το γρέζι στην φωνή του TSE που ταιριάζει για κάποιο λόγο τόσο πολύ στον δίσκο . Δεν βρήκα τραγούδι για skip άσχετα από το γεγονός ότι δύσκολα θα ξανακούσω όλο τον δίσκο ξανά στα κοντά . Τέλος , υπήρχαν και γαμάτα Punchlines . Κέρδισε το follow μου στο spotify και δύσκολα να χάσω νέα κυκλοφορία του . *Επικό όνομα δίσκου
+  Αν πω , πως μου άρεσε ιδιαίτερα ο TSE πριν ακούσω τον δίσκο θα πω ψέματα . Υπήρχαν τραγούδια του που γούσταρα , αλλά τίποτα αμάν και τι . Παρόλα αυτά , αυτός ο δίσκος αποτελει μια ευχάριστη έκπληξη για μένα . Δίσκος με χαρακτήρα , τρομερά feats , ωραίο πάτημα πάνω στο beat και δεν μπορώ να παραλείψω και αυτό το γρέζι στην φωνή του TSE που ταιριάζει για κάποιο λόγο τόσο πολύ στον δίσκο . Δεν βρήκα τραγούδι για skip άσχετα από το γεγονός ότι δύσκολα θα ξανακούσω όλο τον δίσκο ξανά στα κοντά . Τέλος , υπήρχαν και γαμάτα Punchlines . Κέρδισε το follow μου στο spotify και δύσκολα να χάσω νέα κυκλοφορία του . 
+
+
+  \*Επικό όνομα δίσκου
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/zKNJJ8nQFEOwkUMACtnnFjqAj7TdYDv1ZQi4sJlGak1D06F7kpBjEedtAILeEmpojAxY5ssj8c8vayjUMRi5UiAqMc4zu69P7n40flaPw-r9XV_BaKhbSA4nrnjb30wkSl8-snVbkTuZAqMLHdO69M4)
+  ![](https://lh7-us.googleusercontent.com/T7BXOH8Hm70jeXSoKOlI0Suhf0xCNrbekts379eTe9gbZIZ-sc-etkoonbaIbb99OMCWF2OzT4jpxVhZrGKZG7vIApzmeM0WScCATbr86B_OuMSBhbQGHkFXrEt3c-OhBv8vlObmW_PByCiaRuejjMY)
 
 
 
@@ -171,7 +174,7 @@ content: >-
 
 
 
-  **\-**
+  \-
 
 
 
@@ -192,7 +195,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/VydPvehstK-CZ1-tJFBjyf-uCWOBmqcgpFQ3674Rdy4Cs1LGuTvabOeXVzItxqPlOm-b0IlpsDOp62ysIYPgLlck55RxVPTn8XE2wo-AtP4tfG_Tjm3PxWlztp3ZsnC9K_eseLOxxxu7Eyr3zZvBgYQ)
+  ![](https://lh7-us.googleusercontent.com/lBltvBIG4dgxZG_44q4KdYBgBw60AMlXYJjwj1cPjYKMii1A6J5qa8GDC6ogOFHclphlGTmxsdxml6nFVQHiLUBXs8gFOk9PX_6_lMthuu1-YUO9cyzvN3zi_xeXxMcvebpp955oiL-3l8EwUR2RxjY)
 
 
 
@@ -212,12 +215,12 @@ content: >-
 
 
 
-  Πολλά διαφορετικά flows , όμορφα vibes αλλά δεν μπορώ να πω οτι μου άρεσε και τόσο . Είναι λίγο μακριά από αυτά που μου αρέσουν εμένα να ακούω καθώς δεν το βρήκα τόσο ενδιαφέρον λυρικά αλλά ούτε είχε πολλά τραγούδια που να με παρέσυρε η μουσική και γενικότερα το vibe τους . Δεν το βρίσκω κακό δίσκο , προς θεού , απλά δεν είναι τόσο για μένα . Θα ξανά ακούσω σίγουρα πολλές φορές κάποια τραγούδια όπως το “γειτονιά pt2” αλλά τον όλο τον δίσκο δύσκολα . 
+  Πολλά διαφορετικά flows , όμορφα vibes αλλά δεν μπορώ να πω οτι μου άρεσε και τόσο . Είναι λίγο μακριά από αυτά που μου αρέσουν εμένα να ακούω, καθώς δεν το βρήκα τόσο ενδιαφέρον λυρικά αλλά ούτε είχε πολλά τραγούδια που να με παρέσυρε η μουσική και γενικότερα το vibe τους . Δεν το βρίσκω κακό δίσκο , απλά δεν είναι τόσο για μένα . Θα ξανά ακούσω σίγουρα πολλές φορές κάποια τραγούδια όπως το “γειτονιά pt2” αλλά όλο τον δίσκο δύσκολα . 
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/W7QMtQygJb_xfbA5bR1fHbt0ymGrGB1lHRQ4H6p9NWxo56X2cFoZ7WK2Vy4kDcbP2oPhi0IFYb7zjCOwXrV19XsKQY28pfJOFVw-0xm3eN2c7Oz_6_C8yIfgxswbZSAOL4N1kvCCbzitnTxj_9yekx4)
+  ![](https://lh7-us.googleusercontent.com/Xhs_mkXlqqCNdbUFuOSK5AdXmAnCblICJdSQeal_MmGTsDMVrMfG-ErNd3sRRSBH1TjRw9sXHjrS8rm5VrygB8SkkADqNCM8l9P0juxzOY2MKXZEUUdSzT2kQCTL0ay3DpjLXLhJgMrt3_GYtEAgWU0)
 
 
 
@@ -225,7 +228,9 @@ content: >-
   **Βαθμός : 6.8/10**
 
 
-  \-
+
+
+  **\-**
 
 
 
@@ -235,12 +240,12 @@ content: >-
 
 
 
-  Τι να πρωτοπείς για αυτήν την δουλειά ; Να μιλήσεις για τις παραγωγές και το πάντρεμα του Ραπ με την συμφωνική μουσική ; Για τους ράπερ ; Οτι και να πεις κατα την γνώμη μου θα είναι λίγο . Πρωτότυπος ήχος , χωρίς ούτε μισό τραγούδι για skip , απίστευτα beat , τραγούδια με απίστευτη ενέργεια (βλ. Lavara & Balaclava , πόλη του ατόφιου κακού κ.α.) αλλά και τραγούδια που σου σηκώνουν την τρίχα όπως το Victoriam και το ευτυχισμένες μέρες . Φεύγοντας απο το ντοκιμαντέρ , είχαμε τόσο hype για τον δίσκο με την παρέα μου , που πίστευα ότι θα ξενέρωνα γιατί πολύ δύσκολα θα ανταποκρινόταν στις τεράστιες προσδοκίες που μου δημιούργησε το ντοκιμαντέρ . Παρόλα αυτά ήταν αυτό που όλοι περιμέναμε και ίσως κάτι παραπάνω , δηλαδή , ο δίσκος της χρονιάς . 
+  Τι να πρωτοπείς για αυτήν την δουλειά ; Να μιλήσεις για τις παραγωγές και το πάντρεμα του Ραπ με την συμφωνική μουσική ; Για τους ράπερ ; Οτι και να πεις κατα την γνώμη μου θα είναι λίγο . Πρωτότυπος ήχος , χωρίς ούτε μισό τραγούδι για skip , απίστευτα beat , τραγούδια με απίστευτη ενέργεια (βλ. Lavara & Balaclava , πόλη του ατόφιου κακού κ.α.) αλλά και τραγούδια που σου σηκώνουν την τρίχα όπως το Victoriam και το ευτυχισμένες μέρες . Φεύγοντας απο την αίθουσα του κινηματογράφου  , είχαμε τόσο hype για τον δίσκο με την παρέα μου , που πίστευα ότι θα ξενέρωνα γιατί πολύ δύσκολα θα ανταποκρινόταν στις τεράστιες προσδοκίες που μου δημιούργησε το ντοκιμαντέρ . Παρόλα αυτά ήταν αυτό που όλοι περιμέναμε και ίσως κάτι παραπάνω , δηλαδή , ο δίσκος της χρονιάς . 
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/j15ZAVf5d_R00vlYALNKeYoCU6pNwf_DrlUoEt5aWo57apESAbVSPp7tCLCC0Tba63VNU3lUJoq3Y3C-F8HoTS3qCo3n5Fh_qXfAHS9pstFkLDo04xc-wxwcOyhcUDUVsY8HoWX9YclRQr_biemUubI)
+  ![](https://lh7-us.googleusercontent.com/q0OLf2D5VLqMNhZDsCEc8ZuJZI7jSTh1PQ3i6eRGoqhvAiemWGLH6iw-bRkSJ5UaSKQ88T3XuUpIVWay9z0Oi0xBo2fiPDzQfjNsd9dwDuY1SFGhzIPa2JlyK6Vmu1NS8SJ1b_LWvYkWyPiAKxu5Auw)
 
 
 
@@ -250,7 +255,7 @@ content: >-
 
 
 
-  \-
+  **\-**
 
 
 
@@ -265,7 +270,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/re7WJNkHgWZyPkfoJtmZX5xLQZ9WeUz0mxpGHw1Lj4R5IzewWpe4qp_kdludSiAQ4oSEK-_UTUtSAHgn0EgkZiAtc-T8bbDzDfOPahvYADl34IwE4n9v5ocm9SV0ftrCAQcQbBY4NEq700LkihBcL8M)
+  ![](https://lh7-us.googleusercontent.com/PB0ib7ScSZv07waUFH9Qso6-e4vnS74VlkrbIcLlFb6HPL8e3P5LrP27WUyzAqhS6gyiHgUgP1hIdRmDk-e0MrsrrmIRQAlXyojK3Nw1gKFcxyinsMBLPEc3bT0KUpOAWD8S0yrb4WBBp0Shk2oStQc)
 
 
 
@@ -275,7 +280,7 @@ content: >-
 
 
 
-  \-
+  **\-**
 
 
 
@@ -290,7 +295,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/YOpUCAjBZnqkEmYfzYnSe_XJUPeFxZPB8_oF8jbpMUidMtwJVYkzI4mJxwdfERFwElQjNSXCNg8fPkD3c5F7u4KgVjGKDdDyz06CYARgmA3oajkLH-eoDikVpKSFS7sSOviRdr5O_jtPykCyh5hLRGw)
+  ![](https://lh7-us.googleusercontent.com/HRKdn9dUkjPrgSUvoiwwVypPmW_lPXAkXMQBa8rZliYrpV6YD0plRcInkPAhwZ9keGz5lIKFN4CujFqWKaU9Qg7QrjTPUWO55mAsAJ_sntNSYew8MGlvjSSglQNJbohfgs9MWmHnOxnkNisz9JM9vnM)
 
 
 
@@ -300,7 +305,7 @@ content: >-
 
 
 
-  \-
+  **\-**
 
 
 
@@ -315,7 +320,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/toTd3pTBP7odAXelxb5WZbVtxTxzzt7oart6yEa4UvOas7URmwKveLv195rWxm0O_cN1Nt6JbHWIbh-ykCPlsnORqpO-Lp0ao7kugcepUe6E4XhPAWpdODrJ-NBTSJEvvxVtTuH1WJ25JGpubXboUUQ)
+  ![](https://lh7-us.googleusercontent.com/GMLAcmiTYOeIu34a_87FplnzcNn8GYu1BS0agKHZIuDmYK-oPvqn2cSYoczH1gFfwQu0D1Qkm7ANblaAKeKTbA7H6xWCo6XeRuK-IE8291SOcRP6JVYl0ThKow-zDuaz8cJTpfG1KWnYzE1JYljnPT0)
 
 
 
@@ -325,7 +330,7 @@ content: >-
 
 
 
-  \-
+  **\-**
 
 
 
@@ -340,7 +345,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/MCWY188HVB2PJz0dMoBZSCy9ky9Ha833mB0NJ6SUIJTBxXzdsi4ouCibtbgaYscqhIYfFjxE3P1FPsWQPaVoJrs1llrfsDjhZ0EMp8X3mHsKIlg9mAWOgMvw2-diEWDStcIzwopR0lXgJPumIbjyCr4)
+  ![](https://lh7-us.googleusercontent.com/AoKYVo-39K1FEV3ba9b1vi8hSTt8U1QtilmaeGhtKzdznUbxk-5urJT_1760POJr8p-kyAd_y-iszPZPp3XhBspVCbVGppmY9Xp8684Xst-74xFrtRxdq7Ph0QUui-GqEB6oS-O6pznaaPPcf8rT3mQ)
 
 
 
@@ -363,7 +368,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/OLgBBMmB9tJSXpLkxKa0eGoOSxUXluwdtkPvpbHKQ7G5HSu8UpoE7KzsF2TsgMZ97ovN9585eXYSL3x36HKI36ezVo1LJFoGXL4H3ERULbg_HJR_FGTX0_vwVwdTLU9aAUOJoyZA5rpYsz8UA92qOP4)
+  ![](https://lh7-us.googleusercontent.com/rdPjd8UdSshV_zUMMpaVF8FAn43u6WKzNsWcTMDe-2fgb2jhNJqakWIPtF10FUz5x6cWejKRGMsmfy8sZUIIkrYQWR1W5DbZ4njnrPl3Y8P54BqmxUgZ6OSNVGRI_tezgsQU3uiMvur-DOdP2i0nqoE)
 
 
 
@@ -373,7 +378,7 @@ content: >-
 
 
 
-  \-
+  **\-**
 
 
 
@@ -383,12 +388,12 @@ content: >-
 
 
 
-  Αν είχε 3-4 τραγούδια λιγότερο (τα πιο mid) , θα τον βάζαμε στην συζήτηση για τους δίσκους της χρονιάς . Δίσκος super market καθώς έχει και πολλά fight τραγούδια αλλά δεν λείπουν  και αυτά με τα πιο chill vibes , άλλα που είναι τέρμα street και άλλα τα οποία μπορείς να τα στείλεις στην κοπέλα σου . Πολλά punchlines , ορισμένα ακραια beats που κουμπώνουν τέλεια (respect σε DJ Silence και Night Grind)  αλλά υπήρχαν και σημεία που ενιωθες οτι ήταν και λίγο μονότονος . 
+  Αν είχε 3-4 τραγούδια λιγότερο (τα πιο mid) , θα τον βάζαμε στην συζήτηση για τους δίσκους της χρονιάς . Δίσκος super market καθώς έχει και πολλά fight τραγούδια  , άλλα με  πιο chill vibes , άλλα που είναι τέρμα street και άλλα τα οποία μπορείς να τα στείλεις στην κοπέλα σου . Πολλά punchlines , ορισμένα ακραια beats που σου τράβαγαν το ενδιαφέρον πριν καλά καλά ακούσεις τον πρώτο στίχο (respect σε DJ Silence και Night Grind)  χωρίς όμως να λείπουν και οι στιγμές που ενιωθες οτι ήταν και λίγο μονότονος . 
 
 
 
 
-  ![](https://lh7-us.googleusercontent.com/GDmlZL7wLW8oL-HY6ctIPr43zw91_F5XdhOO2VyiQRBPIcjKUXmhYEiBxlUljfhLpW5Dz9soEze3I6n8acWQ_3RZD-nY3QimW7OafsVqeM3SZhJu9Lxh2fNvVQFEsZCMYNuQREuZlFYuChS2zpiqKlA)
+  ![](https://lh7-us.googleusercontent.com/AF5dYpABhWfGOY_Bs6j2sg-5gsyiooBJaaCXqHUMRv-lFilXGNstds8PaMxs3WgsozUA_p5TlYUDaid1K2n5wNbWtZWQdswdxEQZeX059xomeTgz7_3_3bThpylGpeZu9dFb507IO1R9vW17pAbGrBQ)
 
 
 
@@ -398,7 +403,7 @@ content: >-
 
 
 
-  \-
+  **\-**
 
 
 
@@ -413,7 +418,7 @@ content: >-
 
 
 
-  ![](https://lh7-us.googleusercontent.com/IjSZCzq3d5Tdn9Mk6XgsgoJPLqwTbffVFb-y5y-T9K7jPD5EENqDOcrfYqTRBeUQKgYKbW1Ny5Qwfekfcsfi0b5HEJyw1qjG-kQ77McfIY_8yk3o0_0oY-Fh0jVJiEbL6-e5f_Ka9OoexnFUw2De7-c)
+  ![](https://lh7-us.googleusercontent.com/6j07N0Yk6a2_tK41pp6rDao9YHozd07HXhNHJF6jif-UrWlVx0nAEbyzL5N3LEF0jxnWTUFjPreWd_C5mIrsdT9Yw4VZKEl-IUPtSuy5Xu_MOr2yrZfYKHSOEq0xHFRhNuCPqiTMxel4KvSwlvlWfQI)
 
 
 
