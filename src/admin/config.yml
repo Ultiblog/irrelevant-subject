@@ -14,7 +14,7 @@ collections:
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "ID", name: "id", widget: "ncw-id", prefix: "post", timestamp: "true",
-          hint: "Δεν το πειράζουμε αυτό." }
+          hint: "Αυτή η επιλογή μπαίνει αυτόματα" }
       - { label: "Τίτλος", name: "title", widget: "string" }
       - { label: "Ταγκ (χώρισε τα με κόμμα, π.χ. μία, ωραία, πεταλούδα)", name: "tags", widget: "list" }
       - { label: "Κατηγορία", name: "category", widget: "select", multiple: true,
